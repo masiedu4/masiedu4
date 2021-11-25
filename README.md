@@ -1,18 +1,28 @@
 ### Hey buddy 👋
 
 
-**masiedu4/masiedu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michael , a software developer. ALong with writing code , I love to read and write.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-Content Operations @ Aviyel
-Freelacng and Technical Writing
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+**🔭 I’m currently working on ...**
+- Content Operations @ Aviyel
+- Freelacng and Technical Writing
+
+ **🌱 I’m currently learning ...**
+ - TypeScript
+ - Blockchain Development and Web3.0
+ 
+**👯 I’m looking to collaborate on ...**
+- Technical Writing 
+- Anything JavaScripty and Blockchainy
+
+
+**📫 How to reach me:*
+https://twitter.com/asiedu_dev
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- him/his
+
+**⚡ Fun fact:**
+- I think JavaScript is overrated xD :) 
