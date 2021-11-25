@@ -16,6 +16,7 @@ I'm Michael , a software developer. Along with writing code , I love to read and
 **👯 I’m looking to collaborate on ...**
 - Technical Writing 
 - Anything JavaScripty and Blockchainy
+- Web Projects
 
 **😄 Pronouns:**
 - him/his
