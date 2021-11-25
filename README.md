@@ -17,11 +17,7 @@ I'm Michael , a software developer. ALong with writing code , I love to read and
 - Technical Writing 
 - Anything JavaScripty and Blockchainy
 
-
-**📫 How to reach me:*
-https://twitter.com/asiedu_dev
-
-- 😄 Pronouns: ...
+**😄 Pronouns:**
 - him/his
 
 **⚡ Fun fact:**
