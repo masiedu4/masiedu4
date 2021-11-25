@@ -1,7 +1,7 @@
 ### Hey buddy 👋
 
 
-I'm Michael , a software developer. ALong with writing code , I love to read and write.
+I'm Michael , a software developer. Along with writing code , I love to read and write.
 
 
 
