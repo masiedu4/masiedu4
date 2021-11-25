@@ -7,7 +7,7 @@ I'm Michael , a software developer. Along with writing code , I love to read and
 
 **🔭 I’m currently working on ...**
 - Content Operations @ Aviyel
-- Freelacng and Technical Writing
+- Freelancing and Technical Writing
 
  **🌱 I’m currently learning ...**
  - TypeScript
