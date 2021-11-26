@@ -25,4 +25,4 @@ I'm Michael , a software developer. Along with writing code , I love to read and
 - I think JavaScript is overrated xD :) 
 
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=masiedu4)](https://github.com/masiedu4/github-readme-stats)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=masiedu4&show_icons=true&theme=radical )](https://github.com/masiedu4/github-readme-stats)
