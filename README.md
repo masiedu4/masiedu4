@@ -23,3 +23,6 @@ I'm Michael , a software developer. Along with writing code , I love to read and
 
 **⚡ Fun fact:**
 - I think JavaScript is overrated xD :) 
+
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=masiedu4)](https://github.com/anuraghazra/github-readme-stats)
