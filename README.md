@@ -1,7 +1,7 @@
 ### Hey buddy 👋
 
 
-I'm Michael , a software developer. Along with writing code , I love to read and write since I believe they are  the greatest skills one could ever have.
+I'm Michael , a software developer. Along with writing code , I love to read and write since I believe they are  the greatest skills one could ever have. On my spare time ,I build and sell APIs for fun :)
 
 
 
