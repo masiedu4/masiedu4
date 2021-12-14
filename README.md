@@ -11,7 +11,7 @@ I'm Michael , a software developer. Along with writing code , I love to read and
 
  **🌱 I’m currently learning ...**
  - TypeScript
- - Solidity Development and Web3.0
+ - Solidity and Web3.0
  
 **👯 I’m looking to collaborate on ...**
 - Technical Writing 
