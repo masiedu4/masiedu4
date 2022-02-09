@@ -6,7 +6,7 @@ I'm Michael , a software developer. Along with writing code , I love to read and
 
 
 **🔭 I’m currently working on ...**
-- Content Operations @ Aviyel
+- Web3.0 Advocacy
 - Technical Writing
 
  **🌱 I’m currently learning ...**
@@ -19,7 +19,7 @@ I'm Michael , a software developer. Along with writing code , I love to read and
 - Web Projects
 
 **😄 Pronouns:**
-- him/his
+- him/he
 
 **⚡ Fun fact:**
 - I think JavaScript is overrated xD :) 
