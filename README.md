@@ -5,6 +5,7 @@ I'm Michael
 
 
 **🔭 I’m currently working on ...**
+- Full Stack Web Development with React and Node.js
 - Blockchain Development
 - Technical Writing
 
