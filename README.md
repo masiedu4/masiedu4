@@ -1,13 +1,11 @@
-### Hey buddy 👋
-
 
 I'm Michael 
 
 
-**🔭 I’m currently working on ...**
-- Full Stack Web Development with React and Node.js
-- Blockchain Development
-- Technical Writing
+**🔭 I’m currently a ...**
+- Developer Advocacy Contributor at [Cartesi](https://github.com/cartesi)
+- Software Developer
+- Technical Writer
 
  
 
